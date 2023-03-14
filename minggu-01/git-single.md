@@ -58,3 +58,42 @@ sebelum kita menginstall Git di windows, kita sudah harus memiliki editor teks. 
 ![install-04](https://github.com/AnggerFNS/tekn-cloud-computing/blob/master/minggu-01/Picture9.png)
 
 
+10. Selanjutnya checklist pada pilihan **Enable file System chacing**, lalu klik **Next**.
+
+
+![install-04](https://github.com/AnggerFNS/tekn-cloud-computing/blob/master/minggu-01/Picture10.png)
+
+
+11. Selanjutnya merupakan proses pengextract file git.
+
+
+![install-04](https://github.com/AnggerFNS/tekn-cloud-computing/blob/master/minggu-01/Picture11.png)
+
+
+12. Selanjutnya unchecklist pada pilihan **View Release Note**, lalu klik **Finish**.
+
+
+![install-04](https://github.com/AnggerFNS/tekn-cloud-computing/blob/master/minggu-01/Picture12.png)
+
+
+13. Cek versi Git menggunakan CMD dengan mengetikkan **git --version**.
+
+
+![install-04](https://github.com/AnggerFNS/tekn-cloud-computing/blob/master/minggu-01/Picture13.png)
+
+
+# 02 konfigurasi git di windows
+Konfigurasi Git pada windows dapat dilakukan dengan cara mengetikkan kode dibawah ini di CMD
+```
+$ git config --global user.name "AnggitaAlbiantara
+$ git config --global user.email anggita.albiantara@students.utdi.ac.id
+```
+![konfig1](https://github.com/AnggitaAlbiantara/tekn-cloud-computing/blob/f9ab2c90c09b90fbacf1ae39145622ad0f97faaf/minggu-01/konfig1.PNG)
+
+Selanjutnya jika kalian ingin melihat hasil dari konfigurasi diatas maka kalian dapat mengetikkan code berikut di CMD
+```
+$ git config --lists
+```
+![konfig2](https://github.com/AnggitaAlbiantara/tekn-cloud-computing/blob/f9ab2c90c09b90fbacf1ae39145622ad0f97faaf/minggu-01/konfig2.png)
+
+Langkah ini cukup dilakukan sekali saja, kecuali jika kalian ingin melakukan perubahan nama dan email.
