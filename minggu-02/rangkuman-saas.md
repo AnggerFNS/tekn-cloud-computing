@@ -89,3 +89,12 @@ Gambar ini menjelaskan perbedaan yang lebih rinci:
   ### Kompatibilitas
   Dengan instalasi perangkat lunak tradisional, pembaruan dan tambalan terkadang membutuhkan banyak waktu dan uang. Ini terutama berlaku di perusahaan.
  
+ ## 04. How to build a cloud-based SaaS Application.
+ SaaS business adalah industri yang berkembang sangat cepat yang menarik semakin banyak orang dan perusahaan. Organisasi-organisasi ini semakin banyak aplikasi mengambang di cloud. Penskalaan di cloud juga memiliki beberapa manfaat dan risiko penting.
+ 
+Saat membangun aplikasi SaaS (global) kemungkinan besar Anda membangunnya di cloud. Cloud memiliki banyak keunggulan – pikirkan skalabilitas – berbeda dengan lingkungan server lokal.
+
+Membangun produk untuk cloud berarti membangun produk dengan bahasa pemrograman modern. Selain kemampuan dan keterampilan pribadi, pilihan bahasa pemrograman Anda akan dipengaruhi oleh kemungkinan masing-masing bahasa. Ada berbagai bahasa pemrograman (modern) di luar sana sehingga sulit untuk memilih yang tepat.
+
+### Kesimpulan cara membangun cloud-based SaaS Application.
+Dengan Python, MongoDB – sebagai database berorientasi dokumen yang hebat, RabbitMQ dari segi perangkat lunak pengaturan dasar dilakukan. Namun, ada lebih banyak cara untuk dipikirkan.
