@@ -1,4 +1,5 @@
-# Rangkuman Tentang
+# Latihan
+#### 1. Rangkuman Tentang
    1. What’s the difference between IaaS, SaaS, and PaaS?
    2. SaaS Platform Architecture.
    3. SaaS (Software as a Service) Platform itecture.
@@ -15,19 +16,19 @@ Pertama, mari kita lihat beberapa contoh dan layanan dari layanan cloud ini.
 
    ![02](https://github.com/AnggerFNS/tekn-cloud-computing/blob/master/minggu-02/example1.jpg)
 
-   # IaaS 
+   ## IaaS 
      ### IaaS (```Infrastructure as a Service```)
      Anda mendapatkan infrastruktur, yang dimaksud adalah server virtual, hard disk, koneksi jaringan. segala sesuatu yang lain terserah Anda. Dengan segala sesuatu yang lain berarti: mengkonfigurasi & menginstal semuanya, tergantung pada kasus penggunaan Anda: sistem operasi, perangkat lunak tambahan, melakukan pembaruan itu, dll.
      
      Pelanggan tidak memiliki kontrol atas sistem operasi, volume penyimpanan atau kemampuan aplikasi individual tetapi mengontrol pengaturan jaringan (misalnya penetapan alamat IP), aplikasi yang disebarkan, modul server web (misalnya mod_perl) dan mungkin kontrol terbatas atas pengaturan mesin virtual individu (misalnya memori yang dialokasikan ke VM).
      
-   # PaaS 
+   ## PaaS 
      ### PaaS (```Platform as a Service```)
      Anda tidak perlu melakukan beberapa hal dari IaaS, misalnya pembaruan keamanan. Biasanya ada beberapa cara otomatis untuk menyebarkan &mengonfigurasi aplikasi Anda
      
      Pelanggan memiliki kontrol atas sistem operasi, dll. Mereka tidak mengontrol infrastruktur cloud yang mendasarinya tetapi mereka memiliki kontrol lebih besar daripada dalam model SaaS.
 
-    # SaaS 
+    ## SaaS 
      ### SaaS (```Software as a Service```)
      Anda hanya menggunakan perangkat lunak yang disediakan (di web). Anda tidak perlu menginstal apa pun, Anda cukup masuk dan menggunakan perangkat lunak yang sebagian besar memiliki beberapa kasus penggunaan khusus.
 
@@ -98,3 +99,13 @@ Membangun produk untuk cloud berarti membangun produk dengan bahasa pemrograman 
 
 ### Kesimpulan cara membangun cloud-based SaaS Application.
 Dengan Python, MongoDB – sebagai database berorientasi dokumen yang hebat, RabbitMQ dari segi perangkat lunak pengaturan dasar dilakukan. Namun, ada lebih banyak cara untuk dipikirkan.
+
+#### 2. Carilah 2 layanan SaaS, cari juga software desktop / non cloud yang mempunyai fungsionalitas sama dengan layanan SaaS tersebut.
+##### jawaban
+layanan SaaS :
+ - Canva
+ - Dropbox
+ 
+software desktop :
+ - Docs
+ - Spreadsheet
